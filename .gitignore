@@ -1,0 +1,6 @@
+*.pptx
+fonts_used.txt
+
+fonts/
+
+*env*
